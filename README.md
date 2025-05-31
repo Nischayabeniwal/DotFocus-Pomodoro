@@ -1,5 +1,4 @@
 # DotFocus-Pomodoro
-=======
 # ⏱️ ESP32 Pomodoro Timer with Web Interface, LED Progress, and Buzzer Ticks
 
 A smart Pomodoro timer built on the **ESP32** with the following features:
