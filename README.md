@@ -71,5 +71,5 @@ The page updates every 5 seconds and displays:
 Update your SSID and password in the code:
 
 ```cpp
-const char* ssid = "JARVIS";
-const char* password = "WAKEJARVIS@3000";
+const char* ssid = "your_wifi_name";
+const char* password = "your_wifi_passwd";
